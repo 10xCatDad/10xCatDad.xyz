@@ -1,0 +1,8 @@
+outputs/
+.sites-runtime/
+.env*
+.dev.vars*
+node_modules/
+.DS_Store
+*.log
+.openai/
